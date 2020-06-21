@@ -1,6 +1,4 @@
 {
-
-
-    "reporter": "mochawesome"
-
+  "reporter": "mochawesome",
+  "projectId": "96iv45"
 }
